@@ -33,7 +33,7 @@ Whether you're a beginner revising NumPy or someone curious about my learning pa
 
 ## 💡 Why I Built This
 
-As an aspiring **AI/ML engineer** aiming to study in **top German universities**, I believe in **mastering the fundamentals** with depth and discipline.
+As an aspiring **AI/ML engineer** aiming to study in **top European universities**, I believe in **mastering the fundamentals** with depth and discipline.
 
 This repository reflects:
 - 📌 My self-learning mindset  
@@ -58,7 +58,7 @@ This repo is just the beginning of a much larger journey:
 
 **Madhur Joshi**  
 First-Year BTech Student | Python Enthusiast | Future AI/ML Engineer  
-🇮🇳 India → 🇩🇪 Germany (Goal)  
+🇮🇳 India → Europe (Goal)  
 
 📬 GitHub: [@MadhurJoshi12](https://github.com/MadhurJoshi12)  
 
